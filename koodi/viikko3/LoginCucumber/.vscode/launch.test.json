@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "LoginCucumber",
+                "projectName": "LoginCucumber",
+                "workingDirectory": "/home/simo/ohtu/Ohjelmistotuotanto2018/koodi/viikko3/LoginCucumber",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "LoginCucumber",
+                "projectName": "LoginCucumber",
+                "workingDirectory": "/home/simo/ohtu/Ohjelmistotuotanto2018/koodi/viikko3/LoginCucumber",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
